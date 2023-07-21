@@ -1,0 +1,32 @@
+h1{
+line-height: 0.5px;
+
+
+}
+div{ border: 2px solid rgb(5, 21, 194);
+
+    font-size: 20px;
+    color: rgb(5, 21, 194);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(220, 122, 122);
+}
+th{ text-align: center;
+    background-color: rgb(188, 100, 232);
+    width:170px; height: 40px;
+   margin: 5px;
+}
+body{
+    border: 2px solid green;
+    padding: 20px;
+    margin: 222px;
+}
+hr{
+    height: 2px;
+    background-color: #252323;
+}
+ img{
+width: 200px;
+height: 100px;
+
+
+ }   
